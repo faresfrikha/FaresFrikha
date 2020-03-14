@@ -1,4 +1,4 @@
-# -FaresFrikha
+# FaresFrikha
 About me!
 
 Student in second year Civil Engineering at the National Engineering School of Tunis.
