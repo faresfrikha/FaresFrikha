@@ -1,4 +1,5 @@
-# FaresFrikha
-About me!
+Bonjour, je m'apelle Fares FRIKHA.
 
-Motivated, passionate and attentive, I have constantly aimed for excellence in my career which has allowed me to polish my knowledge in the field. 
+Je suis ingénieur en génie civil diplômé de l’Ecole Nationale d’Ingénieurs de Tunis-ENIT depui juillet 2021 et je viens d'achever mes études en Master 2 en Génie Civil à Polytech Clermont.
+
+Actuellement, je suis à la recherche à ma première expérience professionnelle. 
